@@ -1,4 +1,5 @@
 # Today-I-Learned Application (https://todayiilearned.netlify.app/)
+![todayiilearned netlify app-TodayILearned](https://github.com/druvkotwani/Today-I-Learned/assets/96691139/7736793c-d386-4b71-8deb-452591e6f16a)
 
 Today-I-Learned is a FullStack application,  to create and display facts along with their source of information, their category as well as voting system for each fact. 
 
